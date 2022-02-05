@@ -29,9 +29,84 @@ Axler, Sheldon. _Linear Algebra Done Right_. 2nd ed. Springer, 1997. ISBN: 97803
 Reading Assignments
 -------------------
 
-| WEEK # | ASSIGNMENTS |
-| --- | --- |
-| 1 |  {{< br >}}{{< br >}} \[Shankar\] Sections 5.2, 5.3, and 5.6. {{< br >}}{{< br >}} \[Griffiths\] Sections 2.1, 2.2, 2.5, and 2.6. {{< br >}}{{< br >}}  |
-| 2 |  {{< br >}}{{< br >}} \[Griffiths\] Section 7.1. {{< br >}}{{< br >}} \[Griffiths\] Appendix. {{< br >}}{{< br >}} \[Shankar\] Chapter 1. {{< br >}}{{< br >}} \[Griffiths\] Chapter 3. {{< br >}}{{< br >}}  |
-| 5 |  {{< br >}}{{< br >}} \[Griffiths\] Section 3.5. {{< br >}}{{< br >}} \[Shankar\] Chapter 9. {{< br >}}{{< br >}}  |
-| 10 |  {{< br >}}{{< br >}} \[Griffiths\] Sections 4.1, 4.2, and 4.3. {{< br >}}{{< br >}} For further reading on angular momentum with more emphasis on operators than Griffiths, you should consult one or more of the following:  {{< br >}}\[Ohanian\] Chapter 7.  {{< br >}}\[Shankar\] Section 12.5. {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Shankar\] Sections 5.2, 5.3, and 5.6.
+
+\[Griffiths\] Sections 2.1, 2.2, 2.5, and 2.6.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Griffiths\] Section 7.1.
+
+\[Griffiths\] Appendix.
+
+\[Shankar\] Chapter 1.
+
+\[Griffiths\] Chapter 3.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Griffiths\] Section 3.5.
+
+\[Shankar\] Chapter 9.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+\[Griffiths\] Sections 4.1, 4.2, and 4.3.
+
+For further reading on angular momentum with more emphasis on operators than Griffiths, you should consult one or more of the following:  
+\[Ohanian\] Chapter 7.  
+\[Shankar\] Section 12.5.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

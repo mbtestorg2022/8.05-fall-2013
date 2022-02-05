@@ -66,8 +66,45 @@ Grades
 
 The relative weighting of exams and problems sets will be as follows:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Midterm Exam | 25 |
-| Final Exam | 45 |
-| Problem Sets | 30
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Midterm Exam
+{{< tdclose >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+45
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Sets
+{{< tdclose >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
